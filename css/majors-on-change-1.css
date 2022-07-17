@@ -1,0 +1,932 @@
+/* screen - majors-on-change-1 */
+
+.majors-on-change-1 {
+  background-color: var(--blue-charcoal);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1669px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.majors-on-change-1 .navbar-bLxras {
+  background-color: transparent;
+  height: 70px;
+  left: 70px;
+  position: absolute;
+  top: 50px;
+  width: 1299px;
+}
+
+.majors-on-change-1 .text_label-ViRjBB {
+  background-color: transparent;
+  cursor: pointer;
+  direction: rtl;
+  height: 74.29%;
+  left: 61.27%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12.86%;
+  width: 13.24%;
+}
+
+.majors-on-change-1 .text_label-jHNYIx {
+  background-color: transparent;
+  cursor: pointer;
+  direction: rtl;
+  height: 74.29%;
+  left: 74.51%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12.86%;
+  width: 13.24%;
+}
+
+.majors-on-change-1 .text_label-dMExTX {
+  background-color: transparent;
+  cursor: pointer;
+  direction: rtl;
+  height: 74.29%;
+  left: 48.03%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12.86%;
+  width: 13.24%;
+}
+
+.majors-on-change-1 .text_label-lyKp0z {
+  background-color: transparent;
+  direction: rtl;
+  height: 74.29%;
+  left: 24.71%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12.86%;
+  width: 13.24%;
+}
+
+.majors-on-change-1 .text_label-emTfml {
+  background-color: transparent;
+  cursor: pointer;
+  direction: rtl;
+  height: 74.29%;
+  left: 37.95%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12.86%;
+  width: 10.08%;
+}
+
+.majors-on-change-1 .asset-13x-1-ViRjBB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 70px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: calc(50.00% - 35px);
+  width: 127px;
+}
+
+.majors-on-change-1 .asset-23x-1-ViRjBB {
+  background-color: transparent;
+  height: 70px;
+  left: 1px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 35px);
+  width: 116px;
+}
+
+.majors-on-change-1 .group-606-ViRjBB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 64px;
+  left: 138px;
+  position: absolute;
+  top: 2px;
+  width: 172px;
+}
+
+.majors-on-change-1 .group-623-dUoxRj {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 101.16%;
+}
+
+.majors-on-change-1 .metaverse-7DgaJl {
+  background-color: transparent;
+  height: 81.25%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 10.94%;
+  width: 98.85%;
+}
+
+.majors-on-change-1 .c8-pgwg-3-1-7DgaJl {
+  background-color: transparent;
+  height: 96.88%;
+  left: 9.77%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 12.07%;
+}
+
+.majors-on-change-1 .c8-pgwg-3-2-7DgaJl {
+  background-color: transparent;
+  height: 96.88%;
+  left: 77.01%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.12%;
+  width: 12.07%;
+}
+
+.majors-on-change-1 .component-1-bLxras {
+  background-color: transparent;
+  height: 116px;
+  left: 1231px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 191px;
+  width: 20px;
+}
+
+.majors-on-change-1 .ellipse-86-qHbXeB {
+  background-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 17.24%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.majors-on-change-1 .ellipse-87-qHbXeB {
+  background-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 17.24%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 20.69%;
+  width: 100%;
+}
+
+.majors-on-change-1 .ellipse-88-qHbXeB {
+  background-color: var(--white);
+  border-radius: 10px;
+  cursor: pointer;
+  height: 17.24%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 41.38%;
+  width: 100%;
+}
+
+.majors-on-change-1 .ellipse-89-qHbXeB {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 17.24%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 62.07%;
+  width: 100%;
+}
+
+.majors-on-change-1 .ellipse-90-qHbXeB {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 17.24%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 82.76%;
+  width: 100%;
+}
+
+.majors-on-change-1 .rectangle-180-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 1066px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 363px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-190-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 1066px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-200-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 1066px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 555px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-210-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 1066px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 651px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-185-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 1066px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 363px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-191-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 1066px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-201-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 1066px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 555px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-211-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 1066px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 651px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-181-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 363px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-192-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-202-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 555px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-212-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 651px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-186-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 363px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-193-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-203-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 555px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-213-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 849px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 651px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-182-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 632px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 363px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-194-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 632px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-204-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 632px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 555px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-214-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 632px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 651px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-187-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 632px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 363px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-195-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 632px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-205-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 632px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 555px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-215-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 632px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 651px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-183-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 415px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 363px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-196-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 415px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-206-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 415px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 555px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-216-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 415px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 651px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-188-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 415px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 363px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-197-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 415px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-207-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 415px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 555px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-217-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 415px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 651px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-184-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 363px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-198-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-208-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 555px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-218-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 651px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-189-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 363px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-199-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 459px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-209-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 555px;
+  width: 175px;
+}
+
+.majors-on-change-1 .rectangle-219-bLxras {
+  background-color: transparent;
+  border-radius: 19px;
+  height: 54px;
+  left: 198px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 651px;
+  width: 175px;
+}
+
+.majors-on-change-1 .text_label-bLxras {
+  background-color: transparent;
+  direction: rtl;
+  height: auto;
+  left: 563px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 195px;
+  width: 314px;
+}
+
+.majors-on-change-1 .text_label-Kll35o {
+  background-color: transparent;
+  direction: rtl;
+  height: auto;
+  left: 1082px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 364px;
+  width: 144px;
+}
+
+.majors-on-change-1 .text_label-RI9SHY {
+  background-color: transparent;
+  direction: rtl;
+  height: auto;
+  left: 853px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 367px;
+  width: 167px;
+}
+
+.majors-on-change-1 .text_label-Agap7m {
+  background-color: transparent;
+  direction: rtl;
+  height: auto;
+  left: 849px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 463px;
+  width: 176px;
+}
+
+.majors-on-change-1 .footer-bLxras {
+  background-color: transparent;
+  bottom: 0px;
+  height: 605px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  width: 1440px;
+}
+
+.majors-on-change-1 .rectangle-188-xmevnl {
+  background-color: var(--blue-charcoal);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.majors-on-change-1 .group-608-xmevnl {
+  background-color: transparent;
+  height: 79.83%;
+  left: 8.89%;
+  position: absolute;
+  top: 15.04%;
+  width: 82.92%;
+}
+
+.majors-on-change-1 .rectangle-187-NEhQPL {
+  background-color: var(--turquoise-blue);
+  border-radius: 15px;
+  height: 12.42%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63.35%;
+  width: 18.26%;
+}
+
+.majors-on-change-1 .asset-13x-1-1-NEhQPL {
+  background-color: transparent;
+  height: 24.63%;
+  left: 74.04%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 25.13%;
+}
+
+.majors-on-change-1 .heading-NEhQPL {
+  background-color: transparent;
+  direction: rtl;
+  height: 46.79%;
+  left: 92.71%;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 53.21%;
+  width: 6.45%;
+}
+
+.majors-on-change-1 .span0-ZOA31y {
+}
+
+.majors-on-change-1 .span1-ZOA31y {
+  line-height: 50px;
+}
+
+.majors-on-change-1 .heading-wR67Vu {
+  background-color: transparent;
+  height: 33.33%;
+  left: 83.92%;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 54.24%;
+  width: 15.24%;
+}
+
+.majors-on-change-1 .span0-ZmlxWA {
+}
+
+.majors-on-change-1 .span1-ZmlxWA {
+  line-height: 50px;
+}
+
+.majors-on-change-1 .heading-pNbCmi {
+  background-color: transparent;
+  direction: rtl;
+  height: 18.22%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  width: 28.56%;
+}
+
+.majors-on-change-1 .heading-FYaZkS {
+  background-color: transparent;
+  border: 0;
+  direction: rtl;
+  height: 9.73%;
+  left: 8.88%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: right;
+  top: 20.29%;
+  width: 19.68%;
+}
+
+.majors-on-change-1 .heading-FYaZkS::placeholder {
+  color: #ffffff99;
+}
+
+.majors-on-change-1 .heading-4caSLM {
+  background-color: transparent;
+  border: 0;
+  direction: rtl;
+  height: 10.56%;
+  left: 5.61%;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: right;
+  top: 64.18%;
+  width: 6.95%;
+}
+
+.majors-on-change-1 .heading-4caSLM::placeholder {
+  color: #000a2099;
+}
+
+.majors-on-change-1 .you-tube-NEhQPL {
+  background-color: transparent;
+  height: 11.59%;
+  left: 94.22%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 28.99%;
+  width: 4.94%;
+}
+
+.majors-on-change-1 .icon-linkedin-NEhQPL {
+  background-color: transparent;
+  height: 9.94%;
+  left: 87.69%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29.81%;
+  width: 4.94%;
+}
+
+.majors-on-change-1 .icon-instagram-NEhQPL {
+  background-color: transparent;
+  height: 10.35%;
+  left: 80.40%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29.81%;
+  width: 5.70%;
+}
+
+.majors-on-change-1 .icon-twitter-NEhQPL {
+  background-color: transparent;
+  height: 9.73%;
+  left: 73.95%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 30.02%;
+  width: 4.86%;
+}
+
+.majors-on-change-1 .line-4-NEhQPL {
+  background-color: transparent;
+  height: 0.40%;
+  left: 0px;
+  position: absolute;
+  top: 29.71%;
+  width: 28.56%;
+}

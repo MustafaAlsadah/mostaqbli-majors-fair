@@ -1,0 +1,79 @@
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/62b75f70cf20b893e0da01cd.62b75f722a2f0cc1daf07671.sM2cW4k.hcp.png");
+@font-face {
+  font-family: "Abu Dhabi Pro.-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/_font_file_1648542044.Abu Dhabi Pro. Regular (5) (9).otf") format("opentype");
+}
+@font-face {
+  font-family: "Abu Dhabi Pro.-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/_font_file_1648542044.Abu Dhabi Pro. Black (6) (1).otf") format("opentype");
+}
+@font-face {
+  font-family: "Abu Dhabi Pro.-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/_font_file_1648542044.Abu Dhabi Pro. Bold (5) (2).otf") format("opentype");
+}
+
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+input:focus {
+  outline: none;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
+}
+
+* {
+  box-sizing: border-box;
+}
